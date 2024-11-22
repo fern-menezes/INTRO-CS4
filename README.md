@@ -24,5 +24,7 @@ Nesta atividade, são utilizados os seguintes conceitos:
 ## 📞 Contato
 
 Se tiver dúvidas, sinta-se à vontade para me contatar:
+
 LinkedIn: https://www.linkedin.com/in/fernanda-menezes-ribeiro/
+
 Obrigada!
